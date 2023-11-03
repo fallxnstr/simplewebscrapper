@@ -1,1 +1,1 @@
-"A simple Webscrapper written in Python, using Scrappy and PyQT5 for UI"
+A Webscrapper, to run it - run CrawlingPy located in spiders
